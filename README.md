@@ -1,7 +1,8 @@
-# Oficina de testes em Javascript
+<h1 align='center'>DoWhile 2020</h1>
+<h2 align='center'>Workshop: Conserta aqui e quebra ali... hora do TDD no Javascript</h2>
 
-Workshop: Conserta aqui e quebra ali... hora do TDD no Javascript
-evento DoWhile realizado pela **[Rocketseat](https://github.com/rocketseat-education)** e ministrado por **[Josélia Costa](https://github.com/joselialcosta)**.
+
+Segundo dia de DoWhile realizado pela **[Rocketseat](https://github.com/rocketseat-education)** e ministrado por **[Josélia Costa](https://github.com/joselialcosta)**.
 
 ### Ferramentas:
 
@@ -17,7 +18,7 @@ cd src/
 yarn
 ```
 
-Para rodar os testes
+Para rodar os testes :arrow_forward:
 ```
 yarn test 
 ```
@@ -27,7 +28,7 @@ yarn watch
 ```
 
 
-### Referências
+### Referências 🚀
 
 - [É testando que se aprende a testar](https://medium.com/@carlosmaniero/%C3%A9-testando-que-se-aprende-a-testar-19903d234cae)
 
