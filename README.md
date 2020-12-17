@@ -6,9 +6,8 @@ Segundo dia de DoWhile realizado pela **[Rocketseat](https://github.com/rocketse
 
 ### Ferramentas:
 
-- JavaScript
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Jest](https://jestjs.io/en/)
-- [Dicas do Jest a gosto](https://devhints.io/jest)
 
 
 Execute os seguintes comandos:
