@@ -1,49 +1,29 @@
 # Oficina de testes em Javascript
 
-Boas vindas!
-Se você chegou até aqui significa que seu coração está aberto a aprender uma nova abordagem de escrever código com mais confiança.
+Workshop: Conserta aqui e quebra ali... hora do TDD no Javascript
+evento DoWhile realizado pela Rocketseat(https://github.com/rocketseat-education) e ministrado por Josélia Costa(https://github.com/joselialcosta).
 
-Este repositório não tem todas as respostas para fazer isso. Mas pode te ajudar a fazer perguntas.
-
-Tenha em mente que esta oficina vai demonstrar como preparar uma receita básica. Assim como o ato de cozinhar e preparar alimentos, a prática leva a excelência. 
-
-⚠️**Por favor: não tenha a expectativa de sair da oficina sendo _expert_ na abordagem de testes, mas tente sair motivada a incorporar esta pratica no seu dia a dia.**
-
-### Receitas do dia:
-- 🍠 Batatas rústicas com molho de _FizzBuzz_
-- 🍲 Sopa de legumes com macarrão de letrinhas
-
-
-> 💡Depois de tentar resolver os exercícios, dê uma olhada na branch `solution`. 
-
-### Técnica
-[Test Driven Development](https://pt.wikipedia.org/wiki/Test-driven_development)
-> 💡Esta oficina vai cobrir especificamente a *base* da pirâmide de testes. Se você ainda não teve contato com esta abordagem, [este artigo](https://martinfowler.com/articles/practical-test-pyramid.html) 🇬🇧
-tem uma excelente explicação sobre este assunto
-
-
-### Ingredientes:
+### Ferramentas:
 
 - JavaScript
 - [Jest](https://jestjs.io/en/)
 - [Dicas do Jest a gosto](https://devhints.io/jest)
 
-### _Mise en place_
 
 Execute os seguintes comandos:
 ```
 git clone [this repo]
 cd src/
-npm install
+yarn
 ```
 
 Para rodar os testes
 ```
-npm run test 
+yarn test 
 ```
 Ou:
 ```
-npm run watch
+yarn watch
 ```
 
 
