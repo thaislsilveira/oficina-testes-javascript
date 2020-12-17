@@ -1,7 +1,7 @@
 # Oficina de testes em Javascript
 
 Workshop: Conserta aqui e quebra ali... hora do TDD no Javascript
-evento DoWhile realizado pela Rocketseat(https://github.com/rocketseat-education) e ministrado por Josélia Costa(https://github.com/joselialcosta).
+evento DoWhile realizado pela **[Rocketseat](https://github.com/rocketseat-education)** e ministrado por **[Josélia Costa](https://github.com/joselialcosta)**.
 
 ### Ferramentas:
 
